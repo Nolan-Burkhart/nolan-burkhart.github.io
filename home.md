@@ -1,6 +1,6 @@
 ---
 title: Nolan Burkhart
-description: 17 year Old Programmer From Central Virginia
+description: High School Software Developer From Central Virginia
 permalink: /
 layout: default
 ---
