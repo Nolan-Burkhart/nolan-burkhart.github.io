@@ -49,9 +49,21 @@ _First Runner Up Congressional App Challenge 2020_
 
 YouthVote was an app to enable younger students to submit their viewpoints on the elections and receive demographics in their area despite not being old enough to vote.
 
+Coded in Dart & Flutter, deployable on Web, Desktop, and Mobile platforms.
+
 [Find A Demo of YouthVote Here](https://youtu.be/uEWoq-CH4II)
 
 ## Projects For Fun
+
+### Capstone Scheduler
+
+A program created in order to assign certain students to senior capstones of their choosing.
+
+Custom made config system, can be dynamically changed.
+
+Coded in Python
+
+[Find Capstone Scheduler Here](https://github.com/Nolan-Burkhart/CapstoneScheduler)
 
 ### HealthFest Generator
 
