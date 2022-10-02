@@ -13,14 +13,23 @@ My name is Nolan Burkhart, I was born in Kailua, Hawaii and currently reside in 
 
 My main interests are chiefly about Computer Science, however I love the outdoors and all the wilderness that my area has to offer.
 
+I enjoy running all year long, and I am a varsity athlete in Cross Country, Indoor Track, and Outdoor Track. My favorite event by far is the 800m.
+
 ![](assets/avatar.png)
+
 *My beautiful little maltese, Lila*
+
+![](assets/monroe.png)
+
+*My favorite place to be! Monroe, VA*
 
 # My Projects!
 
 ## Congressional App Challenge Projects
 
-### SchoolPal _(Winner Congressional App Challenge 2021_
+### SchoolPal
+
+_Winner Congressional App Challenge 2021_
 
 ![](assets/schoolpal.png)
 
@@ -34,6 +43,8 @@ Coded in Dart & Flutter, deployable on Web, Desktop, and Mobile platforms.
 
 ### YouthVote
 
+_Runner Up Congressional App Challenge 2020_
+
 [Find A Demo of YouthVote Here](./schoolpal/map)
 
 ## Projects For Fun
@@ -41,7 +52,9 @@ Coded in Dart & Flutter, deployable on Web, Desktop, and Mobile platforms.
 ### Defender Disabler
 
 Have you ever had Windows Defender call a perfectly safe program a random malware name with some random symbols?
+
 Have you ever had Windows Defender try to kill Visual Studio (a windows program) because it thought that the debugger was a piece of malware?
+
 Have you ever had Windows Defender use up 95% of your CPU and freeze your computer because it decided to conduct a random scan?
 
 Probably not, but if you want to get rid of it, this tool will do wonders.
