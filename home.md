@@ -1,10 +1,8 @@
 ---
-layout: home
 title: Nolan Burkhart
 description: Home
 permalink: /
+layout: default
 ---
 
-  <div>
-    <h1>Nolan Burkhart</h1>
-  </div>
+Nolan Burkhart
