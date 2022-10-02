@@ -1,5 +1,5 @@
 ---
-title: Nolan Burkhart
+title: About Nolan Burkhart
 description: Home
 permalink: /
 layout: default
