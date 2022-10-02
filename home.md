@@ -7,4 +7,7 @@ layout: default
 
 ![](assets/avatar.png)
 
-[View My Award Winning Project SchoolPal](./schoolpal/map).
+#Congressional App Challenge Projects
+
+[View My Award Winning First-Place Project SchoolPal (Congressional App Challenge 2021)](./schoolpal/map).
+[And My Runner Up YouthVote (Congressional App Challenge 2020)](./schoolpal/map).

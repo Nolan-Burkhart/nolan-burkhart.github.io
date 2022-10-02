@@ -1,6 +1,6 @@
 {
-    "name": "schoolpal",
-    "short_name": "schoolpal",
+    "name": "mysample",
+    "short_name": "mysample",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
