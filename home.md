@@ -43,9 +43,13 @@ Coded in Dart & Flutter, deployable on Web, Desktop, and Mobile platforms.
 
 ### YouthVote
 
-_Runner Up Congressional App Challenge 2020_
+_First Runner Up Congressional App Challenge 2020_
 
-[Find A Demo of YouthVote Here](./schoolpal/map)
+![](assets/youthvote.png)
+
+YouthVote was an app to enable younger students to submit their viewpoints on the elections and receive demographics in their area despite not being old enough to vote.
+
+[Find A Demo of YouthVote Here](https://youtu.be/uEWoq-CH4II)
 
 ## Projects For Fun
 
