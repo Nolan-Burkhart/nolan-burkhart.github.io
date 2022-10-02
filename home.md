@@ -13,7 +13,7 @@ layout: default
 
 ## Congressional App Challenge Projects
 
-### SchoolPal _Winner Congressional App Challenge 2021_
+### SchoolPal _(Winner Congressional App Challenge 2021_
 
 ![](assets/schoolpal.png)
 
@@ -21,13 +21,13 @@ This app, SchoolPal, allows educational systems to become much more organized, f
 
 Coded in Dart & Flutter, deployable on Web, Desktop, and Mobile platforms.
 
-[Article By The Congressional App Challenge](https://www.congressionalappchallenge.us/21-va05/).__
+[Article By The Congressional App Challenge](https://www.congressionalappchallenge.us/21-va05/).
 
-[View It Here](./schoolpal/).__
+[Find A Demo of SchoolPal Here](./schoolpal/)
 
 ### YouthVote
 
-[View It Here](./schoolpal/map).
+[Find A Demo of YouthVote Here](./schoolpal/map)
 
 ## Projects For Fun
 
@@ -41,9 +41,11 @@ Probably not, but if you want to get rid of it, this tool will do wonders.
 
 Coded in C++.
 
-[View It Here](https://github.com/Nolan-Burkhart/defender-disabler)
+[Find Defender Disabler Here](https://github.com/Nolan-Burkhart/defender-disabler)
 
 ### Kahoot Flooder
+
+![](https://camo.githubusercontent.com/52f905242b9a737833225ae7b821664ac79676c2280b6e4049dcdca9cd4b69e4/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3832383638353335323238313034373039312f3834323431333038313838373337353339302f436170747572652e504e47)
 
 Kahoot, most likely one of the most employed online games used in the classroom. Students join, answer questions, and win based on their speed and accuracy on questions.
 
@@ -53,4 +55,4 @@ This bot will utilize WebRequests and disassemble Kahoot's extremely difficult a
 
 Coded in C++.
 
-[View It Here](https://github.com/Nolan-Burkhart/kahoot-project)
+[Find Kahoot Flooder Here](https://github.com/Nolan-Burkhart/kahoot-project)
