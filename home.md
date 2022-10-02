@@ -1,6 +1,6 @@
 ---
 title: Nolan Burkhart
-description: A 17 year Old Computer Science Programmer from Central Virginia
+description: A 17 year Old Programmer from Central Virginia
 permalink: /
 layout: default
 ---
@@ -15,9 +15,9 @@ My main interests are chiefly about Computer Science, however I love the outdoor
 
 I enjoy running all year long, and I am a varsity athlete in Cross Country, Indoor Track, and Outdoor Track. My favorite event by far is the 800m.
 
-![](assets/avatar.png) ![](assets/monroe.png)
-
-*My beautiful little Maltese: Lila and my favorite place to be: Monroe, VA*
+![](assets/avatar.png) | ![](assets/monroe.png)
+---------------------- | ----------------------
+*My beautiful little Maltese: Lila* |  *My favorite place to be: Monroe, VA*
 
 # My Projects!
 
