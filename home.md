@@ -1,6 +1,6 @@
 ---
 title: Nolan Burkhart
-description: A 17 year Old Programmer from Central Virginia
+description: 17 year Old Programmer From Central Virginia
 permalink: /
 layout: default
 ---
@@ -48,6 +48,16 @@ _Runner Up Congressional App Challenge 2020_
 [Find A Demo of YouthVote Here](./schoolpal/map)
 
 ## Projects For Fun
+
+### HealthFest Generator
+
+A program created to generate schedules for a school event called HealthFest.
+
+Can also be applied to generate schedules for other purposes by tweaking the settings file.
+
+Coded in Python
+
+[Find HealthFest Here](https://github.com/Nolan-Burkhart/HealthFest-Generator)
 
 ### Defender Disabler
 
