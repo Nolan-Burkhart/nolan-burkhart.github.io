@@ -5,6 +5,10 @@ permalink: /
 layout: default
 ---
 
+<head>
+   <link rel="shortcut icon" type="image/png" href="assets/favicon.png">
+</head>
+
 # About Me
 
 Welcome to my page!
