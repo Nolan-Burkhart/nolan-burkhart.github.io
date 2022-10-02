@@ -7,7 +7,14 @@ layout: default
 
 # About Me
 
+Welcome to my page!
+
+My name is Nolan Burkhart, I was born in Kailua, Hawaii and currently reside in Central Virginia.
+
+My main interests are chiefly about Computer Science, however I love the outdoors and all the wilderness that my area has to offer.
+
 ![](assets/avatar.png)
+*My beautiful little maltese, Lila*
 
 # My Projects!
 
