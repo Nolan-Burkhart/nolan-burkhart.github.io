@@ -5,9 +5,27 @@ permalink: /
 layout: default
 ---
 
+# About Me
+
 ![](assets/avatar.png)
 
-#Congressional App Challenge Projects
+# My Projects!
 
-[View My Award Winning First-Place Project SchoolPal (Congressional App Challenge 2021)](./schoolpal/map).
-[And My Runner Up YouthVote (Congressional App Challenge 2020)](./schoolpal/map).
+## Congressional App Challenge Projects
+
+### SchoolPal _Winner Congressional App Challenge 2021_
+
+![](assets/schoolpal.png)
+
+This app, SchoolPal, allows educational systems to become much more organized, friendly to navigate, and pleasant.
+
+Coded in Dart & Flutter, deployable on Web, Desktop, and Mobile platforms.
+
+[Article By The Congressional App Challenge](https://www.congressionalappchallenge.us/21-va05/).__
+
+[View It Here](./schoolpal/).__
+
+### YouthVote
+
+
+[View It here](./schoolpal/map).
