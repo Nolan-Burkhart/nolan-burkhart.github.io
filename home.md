@@ -18,7 +18,7 @@ I enjoy running all year long, and I am a varsity athlete in Cross Country, Indo
 ![](assets/avatar.png)
 
 *My beautiful little Maltese: Lila*
- 
+
 ![](assets/monroe.png)
 
 *My favorite place to be: Monroe, VA*
@@ -50,6 +50,8 @@ _Runner Up Congressional App Challenge 2020_
 ## Projects For Fun
 
 ### Defender Disabler
+
+![](https://github.com/Nolan-Burkhart/defender-disabler/raw/master/media.PNG)
 
 Have you ever had Windows Defender call a perfectly safe program a random malware name with some random symbols?
 
