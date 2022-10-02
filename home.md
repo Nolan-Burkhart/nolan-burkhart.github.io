@@ -7,4 +7,4 @@ layout: default
 
 ![](assets/avatar.png)
 
-[View My Award Winning Project SchoolPal](./schoolpal/index.html).
+[View My Award Winning Project SchoolPal](./schoolpal/map).
