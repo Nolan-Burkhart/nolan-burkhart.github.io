@@ -5,17 +5,15 @@ permalink: /
 layout: default
 ---
 
-<link rel="shortcut icon" type="image/png" href="assets/favicon.png">
-
 # About Me
 
 Welcome to my page!
 
 My name is Nolan Burkhart, I was born in Kailua, Hawaii and currently reside in Central Virginia.
 
-My main interests are chiefly about Computer Science, however I love the outdoors and all the wilderness that my area has to offer.
+My main interests are chiefly in Computer Science; however, I love the outdoors and all the wilderness that my area has to offer.
 
-I enjoy running all year long, and I am a varsity athlete in Cross Country, Indoor Track, and Outdoor Track. My favorite event by far is the 800m.
+I enjoy running all year long as a varsity athlete in Cross Country, Indoor Track, and Outdoor Track. My favorite event by far is the 800m.
 
 ![](assets/avatar.png)
 
