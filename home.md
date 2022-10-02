@@ -15,13 +15,9 @@ My main interests are chiefly about Computer Science, however I love the outdoor
 
 I enjoy running all year long, and I am a varsity athlete in Cross Country, Indoor Track, and Outdoor Track. My favorite event by far is the 800m.
 
-![](assets/avatar.png)
+![](assets/avatar.png) ![](assets/monroe.png)
 
-*My beautiful little maltese, Lila*
-
-![](assets/monroe.png)
-
-*My favorite place to be! Monroe, VA*
+*My beautiful little Maltese: Lila and my favorite place to be: Monroe, VA*
 
 # My Projects!
 
