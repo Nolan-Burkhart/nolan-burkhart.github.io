@@ -43,6 +43,8 @@ Coded in Dart & Flutter, deployable on Web, Desktop, and Mobile platforms.
 
 [Find A Demo of SchoolPal Here](./schoolpal/)
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTwvARllZpzQjkUwrOtCE5J0kc3PTyiWHB64P2V2-KxcXDp5nCSBnEJrVHd41QdfthF0Xu3D0LFfuZB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ### YouthVote
 
 _First Runner Up Congressional App Challenge 2020_
