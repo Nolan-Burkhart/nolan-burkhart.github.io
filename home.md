@@ -5,9 +5,7 @@ permalink: /
 layout: default
 ---
 
-<head>
-   <link rel="shortcut icon" type="image/png" href="assets/favicon.png">
-</head>
+<link rel="shortcut icon" type="image/png" href="assets/favicon.png">
 
 # About Me
 
@@ -42,6 +40,8 @@ This app, SchoolPal, allows educational systems to become much more organized, f
 Coded in Dart & Flutter, deployable on Web, Desktop, and Mobile platforms.
 
 [Article By The Congressional App Challenge](https://www.congressionalappchallenge.us/21-va05/).
+
+[My Presentation](https://docs.google.com/presentation/d/1sevhPjEQWof7EyxrqswjHtxuZXAP429QcgZcYp8TTrU/edit?usp=sharing)
 
 [Find A Demo of SchoolPal Here](./schoolpal/)
 
