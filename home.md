@@ -6,3 +6,5 @@ layout: default
 ---
 
 Nolan Burkhart
+
+[View My Award Winning Project SchoolPal](./schoolpal/index.html).

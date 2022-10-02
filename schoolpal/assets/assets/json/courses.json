@@ -1,0 +1,100 @@
+{
+    "courses": [
+        {
+            "period": "1",
+            "block": "A",
+            "name": "AP Calculus AB",
+            "teacher": "Erik Gauss",
+            "room": "B116",
+            "image": ""
+        },
+        {
+            "period": "1",
+            "block": "B",
+            "name": "Spanish 4",
+            "teacher": "Katie Pugh",
+            "room": "Pod 7",
+            "image": "katie-pugh.jpeg"
+        },
+        {
+            "period": "2",
+            "block": "A",
+            "name": "AP Physics C: Electricity & Magnetism",
+            "teacher": "Noah Biros",
+            "room": "A109",
+            "image": "noah-biros.jpeg"
+        },
+        {
+            "period": "2",
+            "block": "B",
+            "name": "AP Microeconomics",
+            "teacher": "Kate Innes",
+            "room": "B205",
+            "image": "kate-innes.jpeg"
+        },
+        {
+            "period": "3",
+            "block": "A",
+            "name": "English 11",
+            "teacher": "Dottie Akers-Pecht",
+            "room": "B212",
+            "image": "dottie-akers-pecht.jpeg"
+        },
+        {
+            "period": "3",
+            "block": "B",
+            "name": "Peer Tutoring 2",
+            "teacher": "Melisa Larson",
+            "room": "C103",
+            "image": "melisa-larson.jpeg"
+        },
+        {
+            "period": "4",
+            "block": "A",
+            "name": "Study Hall",
+            "teacher": "Bette Garbett",
+            "room": "B104",
+            "image": ""
+        },
+        {
+            "period": "4",
+            "block": "B",
+            "name": "AP US History",
+            "teacher": "Sandra McLaughlin",
+            "room": "B202",
+            "image": "sandra-mclaughlin.jpeg"
+        },
+        {
+            "period": "6",
+            "block": "A",
+            "name": "Independent Study",
+            "teacher": "Zoe Padron",
+            "room": "B111",
+            "image": "zoe-padron.jpeg"
+        },
+        {
+            "period": "6",
+            "block": "B",
+            "name": "Independent Study",
+            "teacher": "Zoe Padron",
+            "room": "B111",
+            "image": "zoe-padron.jpeg"
+        },
+        {
+            "period": "W",
+            "block": "A",
+            "name": "Junior Seminar",
+            "teacher": "Caroline Bertrand",
+            "room": "Library",
+            "image": "caroline-bertrand.jpeg"
+        },
+        {
+            "period": "W",
+            "block": "B",
+            "name": "Junior Seminar",
+            "teacher": "Caroline Bertrand",
+            "room": "Library",
+            "image": "caroline-bertrand.jpeg"
+        }
+    ]
+}
